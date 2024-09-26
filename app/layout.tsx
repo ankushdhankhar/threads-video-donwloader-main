@@ -39,8 +39,8 @@ export const metadata: Metadata = {
     title: "Thread Video Downloader - Download Videos Easily",
     description:
       "Threads Video Downloader allows you to easily download videos from various platforms. Start downloading your favorite videos now!",
-    site: "@_AnitJha",
-    creator: "@_AnitJha",
+    site: "@_AnkushDhankhar",
+    creator: "@_AnkushDhankhar",
     images: [
       {
         url: "https://threads-video-downloader.anit.dev/clickongenerate.png",

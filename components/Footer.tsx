@@ -9,11 +9,11 @@ const Footer = (props: Props) => {
       <div className="withlove text-center">
         With ❣️ by{" "}
         <a
-          href="https://linkedin.com/in/anitjha"
+          href="https://www.linkedin.com/in/ankush-dhankhar-616a48250?originalSubdomain=in"
           className="font-bold underline"
           target="_blank"
         >
-          Anit Jha
+           AnKush Dhankhar
         </a>
       </div>
       <div className="links flex gap-2 text-xs font-bold text-left">

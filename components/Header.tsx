@@ -10,19 +10,20 @@ const Header = (props: Props) => {
   return (
     <div className="flex justify-between h-14 items-center gap-3 px-2 bg-blend-multiply bg-gray-300">
       <div className={`${space.className} sm:text-xl text-base`}>
-        Anit Kr. Jha
+        Ankush Dhankhar
       </div>
       <div className="links flex gap-2 justify-end items-center text-sm sm:text-base">
-        <a
+        {/* { <a
           href="https://blog.anit.dev"
           target="_blank"
           className={`${space.className} hover:underline flex gap-1 items-center text-sm sm:text-base`}
         >
           <FileIcon />
           Blog
-        </a>
+        </a> }
+         */}
         <a
-          href="https://github.com/anitkrjha"
+          href="https://github.com/ankushdhankhar"
           target="_blank"
           className={`${space.className} hover:underline flex gap-1 items-center text-sm sm:text-base`}
         >
@@ -30,7 +31,7 @@ const Header = (props: Props) => {
           Github
         </a>
         <a
-          href="https://anit.dev"
+          href="https://ankushdhankhar.vercel.app/"
           target="_blank"
           className={`${space.className} hover:underline flex gap-1 items-center text-sm sm:text-base`}
         >
