@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dhank/Desktop/threads-video-donwloader-main",
-      "program": "c:/Users/dhank/Desktop/threads-video-donwloader-main/build/Debug/outDebug",
+      "cwd": "c:/Users/dhank/Desktop/threads",
+      "program": "c:/Users/dhank/Desktop/threads/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

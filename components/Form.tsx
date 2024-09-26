@@ -11,10 +11,12 @@ import React from "react";
 import Link from "next/link";
 
 const Form = (props: Props) => {
+  
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     setLoading(true);
     setError(false);
+    return;
     try {
       const data = await fetch("/api/getvideo", {
         method: "POST",
